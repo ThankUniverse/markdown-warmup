@@ -18,3 +18,6 @@ With your group, present your markdown and the website.
 uihihifs
 
 
+# test image
+
+![https://img.purch.com/w/660/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA3MC80NzEvb3JpZ2luYWwvbW9vbi1iYXNlLWJmci5qcGc=]
