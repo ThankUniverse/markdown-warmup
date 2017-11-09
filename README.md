@@ -2,11 +2,11 @@
 
 ## First GitHub Exercice
 
-[Wich site website ?](http://theworldsworstwebsiteever.com/new_page_1.htm) 
+Wich site website ?  -[This one](http://theworldsworstwebsiteever.com/new_page_1.htm)
 
 Is it updated frequently ?  -No, the last update was on April 2012.
 
-[How did you find it ?](http://lmgtfy.com/?q=bad+optimized+websites)
+How did you find it ?   -[Let me google that for you](http://lmgtfy.com/?q=bad+optimized+websites)
     
 Why this website needs updates or a remake ?    -No apparent structure, it's not pleasant to watch, kind of primitive.
 
