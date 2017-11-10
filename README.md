@@ -24,5 +24,5 @@ uihihifs
 
 # Test Screenshot
 
-![capture d ecran test](image.png)
+![capture](image.png)
 
