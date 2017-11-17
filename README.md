@@ -28,6 +28,6 @@ uihihifs
 
 ![capture](image.png)
 
-# Accès à la page web de ce site
+# Access the webpage
 
 (https://thankuniverse.github.io/markdown-warmup/)
